@@ -1,0 +1,35 @@
+.header{
+    font-size: 26px;
+    letter-spacing: 10px;
+    border-radius: 10px;
+}
+
+span{
+    font-size: 40px;
+}
+
+body{
+    color: white;
+    background-color: aquamarine;
+}
+
+label{
+    color: lightgreen;
+    background-color: white;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+#camera{
+    border-style: dashed;
+       height: 300px;
+       width: 400px;
+       border-color: black; 
+}
+
+#result{
+    border-style: dashed;
+       height: 300px;
+       width: 400px;
+       border-color: black; 
+}
